@@ -1,4 +1,4 @@
-package mystring
+package mystrings
 
 // Reverse reverses a string left to right
 // Notice that we need to capitalize the first letter of the function
